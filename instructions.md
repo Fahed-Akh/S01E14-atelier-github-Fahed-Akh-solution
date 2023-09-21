@@ -29,6 +29,6 @@ Et voilà, le dossier du projet devrait être bien relié à votre nouveau repo 
 ### Eape6 - SAUVEGARDER LE TOUT SUR GITHUB. 
 
 Commande a rentrer dans le terminal : 
-* git add
+* git add . 
 * git commit -m "initiation"
 * git push

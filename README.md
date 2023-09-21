@@ -1,4 +1,4 @@
-# S01E14 Atelier Github
+# S01E14 Atelier Github Fahed-Akh
 
 Aujourd'hui on va faire un nouvel atelier sur Github, afin de reprendre les notions vues jusqu'ici, mais aussi pour aller un peu plus loin.
 
